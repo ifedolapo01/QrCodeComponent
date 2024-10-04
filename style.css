@@ -12,8 +12,8 @@ body {
 }
 
 .bg {
-    height: 400px;
-    width: 250px;
+    height: 410px;
+    width: 300px;
     margin: 250px 500px 250px 500px;
     background-color: white;
     border: 20px solid white;
@@ -21,27 +21,27 @@ body {
 }
 
 img {
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     border-radius: 20px;
 }
 
 .txt {
     height: 131px;
-    width: 200px;
-    margin-left: 20px;
+    width: 250px;
+    margin-left: 25px;
     text-align: center;
 }
 
 h1 {
     color: #1F314F;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 700;
 }
 
 p {
     color: #68778D;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .attribution { 
