@@ -11,7 +11,7 @@ body {
 }
 
 .bg {
-    height: 410px;
+    height: 450px;
     width: 250px;
     margin: 45px 500px 45px 500px;
     background-color: white;
@@ -45,7 +45,8 @@ p {
 
 .attribution { 
     font-size: 10px; 
-    text-align: center; 
+    text-align: center;
+    margin-top: 10px; 
 }
 
 .attribution a { 
