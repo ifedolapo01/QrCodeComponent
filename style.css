@@ -1,7 +1,5 @@
 body {
-    /* height: 100px;
-    width: 50%; */
-    /* background-color: white; */
+   margin: 0;
 }
 
 
@@ -13,7 +11,7 @@ body {
 
 .bg {
     height: 410px;
-    width: 300px;
+    width: 270px;
     margin: 250px 500px 250px 500px;
     background-color: white;
     border: 20px solid white;
@@ -21,33 +19,33 @@ body {
 }
 
 img {
-    height: 300px;
-    width: 300px;
+    height: 270px;
+    width: 270px;
     border-radius: 20px;
 }
 
 .txt {
     height: 131px;
     width: 250px;
-    margin-left: 25px;
+    margin-left: 12px;
     text-align: center;
 }
 
 h1 {
     color: #1F314F;
-    font-size: 17px;
+    font-size: 20px;
     font-weight: 900;
 }
 
 p {
     color: #68778D;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .attribution { 
     font-size: 10px; 
     text-align: center;
-    margin-top: 100px; 
+    margin-top: 50px; 
 }
 
 .attribution a { 
