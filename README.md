@@ -21,6 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](<./images/Final Screenshot.png>)
 
+<br>
+
 ### Links
 
 - Solution URL: [QR Code Component Challenge using Html and CSS](https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-html-and-css-xbhn1I1E4N)
